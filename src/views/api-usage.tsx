@@ -55,7 +55,7 @@ export default function ApiUsagePage() {
       <ApiCodeBlock code={command} language="bash" />
       <a
         className="inline-block text-sm text-primary hover:underline"
-        href="https://huzhihui.com/blog/one-ip-guide"
+        href="https://xxxx.com/blog/one-ip-guide"
         target="_blank"
         rel="noopener noreferrer"
       >
