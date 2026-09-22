@@ -151,7 +151,7 @@ export function AppLayout() {
           © {new Date().getFullYear()} IP ·{" "}
           <UnderlineHover asChild>
             <a
-              href="https://huzhihui.com/blog/one-ip-guide"
+              href="https://xxxx.com/blog/one-ip-guide"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -173,7 +173,7 @@ export function AppLayout() {
           ·{" "}
           <UnderlineHover asChild>
             <a
-              href="https://github.com/zhihui-hu/one-ip"
+              href="https://ip.github.com.de"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-1 align-middle"
@@ -183,7 +183,7 @@ export function AppLayout() {
           </UnderlineHover>{" "}
           ·{" "}
           <UnderlineHover asChild>
-            <a href="mailto:ip@huzhihui.com">{t("联系作者")}</a>
+            <a href="mailto:ip@xxxx.com">{t("联系作者")}</a>
           </UnderlineHover>
         </footer>
       </div>
