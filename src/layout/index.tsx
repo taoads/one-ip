@@ -151,7 +151,7 @@ export function AppLayout() {
           © {new Date().getFullYear()} IP ·{" "}
           <UnderlineHover asChild>
             <a
-              href="https://xxxx.com/blog/one-ip-guide"
+              href="https://ip.github.com.de"
               target="_blank"
               rel="noopener noreferrer"
             >
